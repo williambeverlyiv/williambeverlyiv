@@ -1,6 +1,6 @@
 - 👋 Hi, I’m William
 - 👀 I’m interested in science
-- 🌱 I’m currently learning game development
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on indie game projects
 - 📫 How to reach me github
 - 😄 Pronouns: they/them

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m William
 - 👀 I’m interested in science
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on indie game projects
+- 💞️ I’m looking to collaborate on indie projects
 - 📫 How to reach me github
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I have no idea what I'm doing
